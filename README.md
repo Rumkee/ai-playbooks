@@ -8,6 +8,12 @@ Turn photographs of old album pages into individual pictures you can browse and 
 
 [Get started](photo-albums/README.md) · [Full agent prompt](photo-albums/prompt.md)
 
+## Career evidence
+
+Build a durable record of your career through a systematic interview. The agent helps recover forgotten or overlooked experience, preserves facts and uncertainty, and records how the evidence could support future CVs, resumes, applications and interviews.
+
+[Get started](career-evidence/README.md) · [Full agent prompt](career-evidence/prompt.md)
+
 Each playbook has a short guide for you and a complete prompt to give your agent.
 
 ## Licence
