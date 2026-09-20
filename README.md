@@ -14,6 +14,12 @@ Build a durable record of your career through a systematic interview. The agent 
 
 [Get started](career-evidence/README.md) · [Full agent prompt](career-evidence/prompt.md)
 
+## Recurring spending
+
+Bring bank statements and supporting payment records together to identify recurring spending. Ask an agent to build a local review with payment histories, merchant research, saved notes and updates when you add more statements.
+
+[Get started](recurring-spending/README.md) · [Full agent prompt](recurring-spending/prompt.md)
+
 Each playbook has a short guide for you and a complete prompt to give your agent.
 
 ## Licence
